@@ -27,6 +27,9 @@ A simple note-taking app for iPhone.
 - SwiftUI
 - Realm
 
+### Вид приложения
+
+<img src="images/mockup.jpg" alt="Image" width="800" height="455">
 
 </details>
 
@@ -54,5 +57,8 @@ A simple note-taking app for iPhone.
 - SwiftUI
 - Realm
 
+### View Application
+
+<img src="images/mockup.jpg" alt="Image" width="800" height="455">
 
 </details>
