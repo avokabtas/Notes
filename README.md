@@ -29,7 +29,7 @@ A simple note-taking app for iPhone.
 
 ### Вид приложения
 
-<img src="images/mockup.jpg" alt="Image" width="800" height="455">
+<img src="images/mockup.png" alt="Image" width="800" height="455">
 
 </details>
 
@@ -59,6 +59,6 @@ A simple note-taking app for iPhone.
 
 ### View Application
 
-<img src="images/mockup.jpg" alt="Image" width="800" height="455">
+<img src="images/mockup.png" alt="Image" width="800" height="455">
 
 </details>
